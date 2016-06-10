@@ -135,7 +135,7 @@ namespace Custom_Scenery
 			}
 		}
 
-        public string Name { get { return "Cars 'R' Us [v1.0.1]"; } }
+        public string Name { get { return "Cars 'R' Us [v1.0.2]"; } }
         public string Description { get { return "Decorative car props."; } }
         private string path;
 		public string Path {
