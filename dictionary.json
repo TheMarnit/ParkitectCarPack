@@ -1,0 +1,8 @@
+{
+	"carPackGroup": "Use Cars 'R' Us grouping",
+	"seperateClass": "Subdivide object classes",
+	"seperateGroup": "Subdivide object groups",
+	"seperateBrand": "Subdivide brands",
+	"seperateCarType": "Subdivide car types",
+	"enableFlippedReliant": "Enable crashed reliant"
+}

@@ -1,0 +1,22 @@
+﻿----------------------------------------------
+1.0.0 - Initial Release (2016-06-10)
+----------------------------------------------
+Added 06 Total Objects:
+
+Added 01 Chevrolet object
+Added 01 Citroën object
+Added 01 Reliant object
+Added 01 Tesla object
+Added 01 Volkswagen object
+Added 01 "Hidden" Easter Egg
+----------------------------------------------
+
+
+----------------------------------------------
+Special Thanks
+----------------------------------------------
+Michel
+ - Suggestion Reliant Robin
+All others
+ - For their support
+----------------------------------------------

@@ -1,0 +1,123 @@
+﻿{
+	"Marnit_Car_Citroen_Xantia": {
+		"displayName": "Xantia",
+		"model": "citroen_10x20x10_xantia",
+		"class": "V",
+		"group": "C",
+		"brand": "CI",
+		"cartype": "ST",
+		"type": "deco",
+		"grid": true,
+		"price": 5.0,
+		"heightDelta": 0.5,
+		"snapCenter": true,
+        "recolorable": true,
+        "recolorableOptions": {
+            "color1": "#226644",
+            "color2": "#6d6d6d",
+            "color3": "#113322",
+            "color4": "#155050"
+        }
+	},
+	"Marnit_Car_Volkswagen_Passat": {
+		"displayName": "Passat",
+		"model": "vw_10x20x10_passat",
+		"class": "V",
+		"group": "C",
+		"brand": "VW",
+		"cartype": "ST",
+		"type": "deco",
+		"grid": true,
+		"price": 5.0,
+		"heightDelta": 0.5,
+		"snapCenter": true,
+        "recolorable": true,
+        "recolorableOptions": {
+            "color1": "#00095c",
+            "color2": "#9e9e9e",
+            "color3": "#4859f4",
+            "color4": "#155050"
+        }
+	},
+	"Marnit_Car_Tesla_Model_S": {
+		"displayName": "Model S",
+		"model": "tesla_10x20x10_s",
+		"class": "V",
+		"group": "C",
+		"brand": "TS",
+		"cartype": "EX",
+		"type": "deco",
+		"grid": true,
+		"price": 5.0,
+		"heightDelta": 0.5,
+		"snapCenter": true,
+        "recolorable": true,
+        "recolorableOptions": {
+            "color1": "#FFFFFF",
+            "color2": "#333333",
+            "color3": "#AAAAAA",
+            "color4": "#155050"
+        }
+	},
+	"Marnit_Car_Chevrolet_Camaro": {
+		"displayName": "Camaro",
+		"model": "chevrolet_10x20x10_camaro",
+		"class": "V",
+		"group": "C",
+		"brand": "CH",
+		"cartype": "PC",
+		"type": "deco",
+		"grid": true,
+		"price": 5.0,
+		"heightDelta": 0.5,
+		"snapCenter": true,
+        "recolorable": true,
+        "recolorableOptions": {
+            "color1": "#808000",
+            "color2": "#000000",
+            "color3": "#505000",
+            "color4": "#155050"
+        }
+	},
+	"Marnit_Car_Reliant_Robin": {
+		"displayName": "Robin",
+		"model": "reliant_10x20x10_robin",
+		"class": "V",
+		"group": "C",
+		"brand": "RL",
+		"cartype": "CC",
+		"type": "deco",
+		"grid": true,
+		"price": 5.0,
+		"heightDelta": 0.5,
+		"snapCenter": true,
+        "recolorable": true,
+        "recolorableOptions": {
+            "color1": "#5E0A0A",
+            "color2": "#AEAEAE",
+            "color3": "#555555",
+            "color4": "#155050"
+        }
+	},
+	"Marnit_Car_Reliant_Robin_Flipped": {
+		"displayName": "Robin (Crashed)",
+		"model": "reliant_10x20x10_robin_Flipped",
+		"class": "V",
+		"group": "C",
+		"brand": "RL",
+		"cartype": "CC",
+		"type": "deco",
+		"grid": true,
+		"price": 5.0,
+		"heightDelta": 0.5,
+		"snapCenter": true,
+        "recolorable": true,
+        "recolorableOptions": {
+            "color1": "#5E0A0A",
+            "color2": "#AEAEAE",
+            "color3": "#555555",
+            "color4": "#155050"
+        },
+		"isFlippedReliant": true
+	}
+}

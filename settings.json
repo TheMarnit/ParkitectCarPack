@@ -1,0 +1,8 @@
+{
+	"carPackGroup": true,
+	"seperateClass": false,
+	"seperateGroup": false,
+	"seperateBrand": false,
+	"seperateCarType": true,
+	"enableFlippedReliant": false
+}
