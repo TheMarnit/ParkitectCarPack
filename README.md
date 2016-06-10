@@ -1,2 +1,2 @@
-#ChinaPack
-Chinese objects and building set.
+#Cars 'R' Us
+Decorative car props.
